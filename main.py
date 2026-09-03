@@ -1,6 +1,6 @@
 from operaciones import sumar, restar, multiplicar, dividir
 
-print("Bienvenidos!")
+print("Bienvenidos a la calculadora!")
 
 resultado_suma = sumar(5, 3)
 resultado_resta = restar(10, 4)
