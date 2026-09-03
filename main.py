@@ -1,5 +1,7 @@
 from operaciones import sumar, restar, multiplicar, dividir
 
+print("Bienvenidos!")
+
 resultado_suma = sumar(5, 3)
 resultado_resta = restar(10, 4)
 resultado_multiplicacion = multiplicar(5,3)
